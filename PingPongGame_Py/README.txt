@@ -1,6 +1,6 @@
 Hello User...
 
-I am Dharani I aka #D_1209
+I am Dharani Ilango aka #D_1209
 
 This is the Ping Pong Game that is for the Beginners.
 The code has been written in Python3.
